@@ -1,0 +1,11 @@
+.single {
+    display: block;
+    padding: 2px 16px;
+    background-color: #fff;
+    margin: 20px 10px;
+    border-left: 5px solid #fff;
+    cursor: pointer;
+    &:hover {
+        border-left: 5px solid #4979ff;
+    }
+}
